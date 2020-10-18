@@ -1,4 +1,4 @@
-# Python for Data Science
+# Python for Data Science :bar_chart: :robot:
 
 This repo is my workspace for creating a collection of materials towards Data Science.
 
