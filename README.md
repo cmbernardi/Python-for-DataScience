@@ -45,6 +45,8 @@ This repo is my workspace for creating a collection of materials towards Data Sc
   - [Advanced Recommender Systems](https://github.com/cmbernardi/Python-for-DataScience/blob/master/7-Recommender%20Systems/02-Advanced%Recommender%20Systems.ipynb)
 - [**NLP (Natural Language Processing)**](https://github.com/cmbernardi/Python-for-DataScience/tree/master/8-NLP%20(Natural%20Language%20Processing))
   - [NLP](https://github.com/cmbernardi/Python-for-DataScience/blob/master/8-NLP%20(Natural%20Language%20Processing)/01-NLP%20(Natural%20Language%20Processing).ipynb)
+ ### Advanced Data Preparation
+ - [**Missing Data**](https://github.com/cmbernardi/Python-for-DataScience/blob/master/9-Data%20Preparation/01-Missing%20Data.ipynb)
 
 # Installing Jupyter Notebook
 - **Prerequisite: Python 3.3 or greater**
