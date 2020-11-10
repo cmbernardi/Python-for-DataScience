@@ -47,7 +47,9 @@ This repo is my workspace for creating a collection of materials towards Data Sc
   - [NLP](https://github.com/cmbernardi/Python-for-DataScience/blob/master/8-NLP%20(Natural%20Language%20Processing)/01-NLP%20(Natural%20Language%20Processing).ipynb)
  ### Advanced Data Preparation
  - [**Missing Data**](https://github.com/cmbernardi/Python-for-DataScience/blob/master/9-Data%20Preparation/01-Missing%20Data.ipynb)
-   ([See the article](https://towardsdatascience.com/data-preparation-part-1-missing-data-dfbd4b2cddda))
+   ([See article](https://towardsdatascience.com/data-preparation-part-1-missing-data-dfbd4b2cddda))
+ - [**Outliers**](https://github.com/cmbernardi/Python-for-DataScience/blob/master/9-Data%20Preparation/02-%20Outliers.ipynb)
+   ([See article](https://cmbernardi.medium.com/data-preparation-part-2-outliers-4851c5b59cdf))
 
 # Installing Jupyter Notebook
 - **Prerequisite: Python 3.3 or greater**
