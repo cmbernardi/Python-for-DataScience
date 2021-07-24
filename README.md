@@ -2,7 +2,9 @@
 
 This repo is my workspace for creating a collection of materials towards Data Science.
 
-# Content  
+# Content
+### Python Basics
+- [**Code**](https://github.com/cmbernardi/Python-for-DataScience/blob/master/0%20-%20Python%20Basics/python-basics.ipynb)
 ### Data Manipulation
 - [**Numpy**](https://github.com/cmbernardi/Python-for-DataScience/tree/master/1-Numpy)
   - [Arrays](https://github.com/cmbernardi/Python-for-DataScience/blob/master/1-Numpy/01-NumPy%20Arrays.ipynb)
@@ -50,6 +52,8 @@ This repo is my workspace for creating a collection of materials towards Data Sc
    ([See article](https://towardsdatascience.com/data-preparation-part-1-missing-data-dfbd4b2cddda))
  - [**Outliers**](https://github.com/cmbernardi/Python-for-DataScience/blob/master/9-Data%20Preparation/02-%20Outliers.ipynb)
    ([See article](https://cmbernardi.medium.com/data-preparation-part-2-outliers-4851c5b59cdf))
+ ### EDA and Data Cleaning Template
+ - [**Code**](https://github.com/cmbernardi/Python-for-DataScience/blob/master/EDA%20and%20Data%20Cleaning%20Template/eda-data-cleaning-template.ipynb)
 
 # Installing Jupyter Notebook
 - **Prerequisite: Python 3.3 or greater**
